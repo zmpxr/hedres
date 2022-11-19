@@ -1,0 +1,26 @@
+@font-face{
+			font-family: hedres;
+			src:url(123.otf)
+		}
+		.box{
+			background-color: red;
+			height: 100px;
+		}
+		.font.s{
+			font-size: 50px;
+
+		}
+		.bg-danger{
+			background-color: red;
+		}
+		.mrg{
+			margin-left: 100px;
+		}
+		.font-family{
+			font-family: hedres;
+			
+		}
+		.boxer{
+			background-color: #ebcc6f;
+			width: 1920px;
+		}
